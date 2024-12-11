@@ -1,0 +1,1 @@
+This simple ImageJ/FIJI macro script takes three input files (the raw fluorescence image file and the two masks TIFF files for each channel) and output in a Result window the intensity ratio between the green and the red channels
